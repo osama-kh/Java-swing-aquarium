@@ -1,2 +1,2 @@
 # Java-swing-aquarium
-this project is about add fishes in two kinds (regular fish/Jillyfish) and control there movment using Threads and cyclicBarrier and inheritance + build date and location and tempreture classes using oop programing
+this project is about aquarium managment system - add fishes in two kinds (regular fish/Jillyfish) , control there movment using Threads and cyclicBarrier including inheritance + build date and location , tempreture classes using oop programing plus the structure included design patterns .
